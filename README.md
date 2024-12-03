@@ -44,8 +44,6 @@ I'm a passionate **Software Engineer in Training** with a keen interest in full-
 ---
 
 ## 🛠 Skills & Tools
-![GitHub Contribution Snake](https://github.com/Cassandra-dev/Cassandra-dev/blob/output/github-contribution-grid-snake.svg)
-
 
 ### **Programming Languages**
 - Java, C#, Python, JavaScript, MySQL, MATLAB, HTML/CSS, C++
@@ -60,7 +58,7 @@ I'm a passionate **Software Engineer in Training** with a keen interest in full-
 
 ## 🌱 Currently Learning
 - Expanding expertise in **artificial intelligence** and **full-stack development** with **React** and **.NET**.
-
+  <img align="left" alt="Astrid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassandra-Dev" />
 ---
 
 ## 📫 Let's Connect
