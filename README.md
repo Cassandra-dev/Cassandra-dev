@@ -44,7 +44,7 @@ I'm a passionate **Software Engineer in Training** with a keen interest in full-
 ---
 
 ## 🛠 Skills & Tools
-  <img align="left" alt="Astrid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassandra-Dev" />
+  <img alt="Astrid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassandra-Dev" />
 ### **Programming Languages**
 - Java, C#, Python, JavaScript, MySQL, MATLAB, HTML/CSS, C++
 
