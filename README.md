@@ -51,10 +51,10 @@ I'm a passionate **Software Engineer in Training** with a keen interest in full-
   <summary>Click to view my top languages</summary>
   
   <img alt="Cassandra's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassandra-Dev" />
--  ![C# Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassandra-Dev&layout=compact&langs_count=10&hide=html,css,java)
 
   
 </details>
+-  ![C# Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassandra-Dev&layout=compact&langs_count=10&hide=html,css,java)
 
 ### Other Languages & Skills
 - Java, C#, Python, JavaScript, MySQL, MATLAB, HTML/CSS, C++
