@@ -44,7 +44,7 @@ I'm a passionate **Software Engineer in Training** with a keen interest in full-
 ---
 
 ## 🛠 Skills & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassandra-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassandra-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### **Programming Languages**
 - Java, C#, Python, JavaScript, MySQL, MATLAB, HTML/CSS, C++
 
