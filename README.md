@@ -57,7 +57,11 @@ I'm a passionate **Software Engineer in Training** with a keen interest in full-
 ### Other Languages & Skills
 - Java, C#, Python, JavaScript, MySQL, MATLAB, HTML/CSS, C++
 ### **Frameworks**
-- ASP.NET, React, Spring, Bootstrap, Vite
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+- ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+- ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### **Technologies**
 - Git, Visual Studio Code, IntelliJ, Visual Studio
