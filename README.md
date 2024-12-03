@@ -32,15 +32,9 @@ I'm a passionate **Software Engineer in Training** with a keen interest in full-
 - **Flashcard Web Application**  
   A **React.js** app for creating and viewing flashcards, featuring **CRUD operations**, authentication, error handling, and input logging.
 
-- **Cinema Ticket Application**  
-  Built with **Spring**, **Java**, and **SQL**, this app enables ticket purchasing with full **CRUD functionality**.
-
-- **E-commerce Prototype**  
-  A platform where users can buy and sell items, developed using **React.js** and its libraries.
-
-- **Logistics Package Sending Platform**  
-  Currently developing a logistics prototype using **React** and **.NET API**, focused on package tracking and sending.
-
+- [**E-Commerce Prototype**](https://github.com/Cassandra-Dev/ecommerce-prototype): A platform where users can buy and sell credits.
+- [**Logistics Package Sending**](https://github.com/Cassandra-Dev/logistics-platform): A .NET API and React-based logistics solution.
+- [**Cinema Ticket Application**](https://github.com/Cassandra-Dev/cinema-ticket-app): Built with Spring and C# for CRUD operations.
 ---
 
 ## 🛠 Skills & Tools
@@ -54,7 +48,7 @@ I'm a passionate **Software Engineer in Training** with a keen interest in full-
 
   
 </details>
-<img alt="Cassandra's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassandra-Dev&include_all_commits=true&langs_count=10&hide=html,css,java,python" />
+
 
 ### Other Languages & Skills
 - Java, C#, Python, JavaScript, MySQL, MATLAB, HTML/CSS, C++
